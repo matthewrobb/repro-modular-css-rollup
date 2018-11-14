@@ -1,4 +1,6 @@
 import { foo } from "./foo.css";
 import { bar } from "../Src/bar.css";
 
-console.log({ foo, bar });
+import { bar as alsoBar } from "../src/bar.css";
+
+console.log({ foo, bar, alsoBar });

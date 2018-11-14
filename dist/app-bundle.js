@@ -5,6 +5,8 @@
 
     var bar$1 = "mc66533c91_bar";
 
-    console.log({ foo: foo$1, bar: bar$1 });
+    var bar$3 = "mce75298dc_bar";
+
+    console.log({ foo: foo$1, bar: bar$1, alsoBar: bar$3 });
 
 }());
