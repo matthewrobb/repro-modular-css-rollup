@@ -1,0 +1,19 @@
+{
+  "name": "repro-modular-css-rollup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "build": "npx rollup --config"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewrobb/repro-modular-css-rollup.git"
+  },
+  "dependencies": {
+    "modular-css-rollup": "^15.0.0",
+    "rollup": "^0.67.1",
+    "rollup-plugin-includepaths": "^0.2.3",
+    "rollup-plugin-node-resolve": "^3.4.0"
+  }
+}
