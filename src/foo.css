@@ -1,3 +1,4 @@
 .foo {
     composes: bar from "./bar.css";
+    composes: bar from "../Src/bar.css";
 }
