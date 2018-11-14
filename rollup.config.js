@@ -1,7 +1,7 @@
 "use strict";
 
 module.exports = {
-    entry: "src/app/main.js",
+    entry: "src/main.js",
     plugins: [
         require("modular-css-rollup")()
     ],

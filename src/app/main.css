@@ -1,4 +1,0 @@
-.mainTest {
-    composes: prettiesTest from "../styles/pretties.css";
-    color: red;
-}

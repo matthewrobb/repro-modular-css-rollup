@@ -1,10 +1,10 @@
 (function () {
     'use strict';
 
-    var mainTest = "mc1fc69d35_prettiesTest mcdc0c4cef_mainTest";
+    var foo$1 = "mce75298dc_bar mc6bbbbf72_foo";
 
-    var prettiesTest = "mc4d11978e_prettiesTest";
+    var bar$1 = "mc66533c91_bar";
 
-    console.log({ mainTest, prettiesTest });
+    console.log({ foo: foo$1, bar: bar$1 });
 
 }());
